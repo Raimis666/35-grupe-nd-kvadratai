@@ -4,11 +4,12 @@
   "description": "",
   "main": "index.js",
   "scripts": {
+    "dev": "dead-server --port=3002 --host=localhost",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "author": "Raimis",
+  "license": "MIT",
   "devDependencies": {
     "dead-server": "^1.0.6"
   }

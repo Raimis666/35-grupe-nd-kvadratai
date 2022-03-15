@@ -4,7 +4,7 @@
 ![Eco Status](https://img.shields.io/badge/ECO-Friendly-green.svg)
 [![Discord](https://discord.com/api/guilds/571393319201144843/widget.png)](https://discord.gg/dRwW4rw)
 
-# ND kvadratai
+# ND kvadaratai
 
 _35 group website project_
 
@@ -12,7 +12,7 @@ This project is for educational porpuses only. Pull request are welcome, but pri
 
 Site published at: https://raimis666.github.io/35-grupe-nd-kvadratai/
 
-Design: [ND kvadratai](https://media.discordapp.net/attachments/950296439051911178/951432465568899082/unknown.png?width=840&height=630)
+Design: [ND kvadaratai](https://cdn.discordapp.com/attachments/950296439051911178/951432465568899082/unknown.png)
 
 ## Project features
 
